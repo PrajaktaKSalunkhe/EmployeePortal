@@ -1,4 +1,3 @@
-// src/controllers/employeeController.ts
 import { Request, Response } from 'express';
 import axios, { AxiosResponse } from 'axios';
 import { Employee } from '../interfaces/employeeInterface';
